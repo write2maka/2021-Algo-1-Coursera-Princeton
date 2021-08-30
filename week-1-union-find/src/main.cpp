@@ -7,9 +7,10 @@
 #include <iostream>
 #include <quickFind-2.h>
 #include <quickUnion.h>
+#include <weightedQuickUnion.h>
 
 #define INPUT_SIZE 10
-#define UnionFind QuickUnion
+#define UnionFind WeightedQuickUnion
 
 using namespace std;
 
