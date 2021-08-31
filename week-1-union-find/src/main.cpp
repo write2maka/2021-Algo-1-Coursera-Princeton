@@ -8,9 +8,10 @@
 #include <quickFind-2.h>
 #include <quickUnion.h>
 #include <weightedQuickUnion.h>
+#include <improvisedWeightedQuickUnion.h>
 
 #define INPUT_SIZE 10
-#define UnionFind WeightedQuickUnion
+#define UnionFind ImprovisedWeightedQuickUnion
 
 using namespace std;
 
